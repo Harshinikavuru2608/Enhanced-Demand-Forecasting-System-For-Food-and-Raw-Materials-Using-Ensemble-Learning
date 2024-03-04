@@ -3,6 +3,8 @@
 ## Abstract:
 Food wastage and raw materials deterioration are the most noteworthy predicaments faced by any food selling business. To avoid wastage, the restaurants should have prior knowledge of the amount of food required. Several solutions with the help of AI have been compounded to solve this problem of food wastage. Nevertheless, much of this research concentrates on the prediction of sales and its accuracy. It is important to note that sales prediction alone won’t be enough to decrease food wastage. Predicting the number of raw materials required also plays a crucial role in reducing food wastage. Therefore, in this paper, a demand forecasting system is proposed that predicts the number of customers, sales for particular dishes, and the amount of raw materials required. Stacking technique is used in the proposed model for making the predictions. This model has been evaluated with the help of MAE metric and it ranges from 0.4 to 0.7. The proposed system will help the restaurant cook dishes and buy raw materials with minimum wastage.
 
+## IEEE Paper: https://ieeexplore.ieee.org/document/9671005
+
 ## Data Collection:
 The dataset is collected from Siddhartha Restaurant, Hyderabad. The data has been collected from January 2018 to December 2019 with 730 records. The independent variables are year, month, date, day, weather conditions, public holidays, and festive season.
 ![image](https://github.com/Harshinikavuru2608/Enhanced-Demand-Forecasting-System-For-Food-and-Raw-Materials-Using-Ensemble-Learning/assets/125713954/9912bc46-cd03-411a-a8e3-09f498682577)
